@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hov{
+    @apply
+    hover:underline decoration-[2px] underline-offset-4
+}
